@@ -1,0 +1,26 @@
+.carousel{ justify-content:flex-start;}
+.btn{ margin-left: 45%;}
+.txt{ text-align: center; margin-top: 20px;}
+.p{ text-align: center; margin-top: 60px; margin-bottom: 50px;}
+.box {
+    display: flex; justify-content: center;background-color: blue;height: 7500px;width: 450px;
+ margin-left: 30%; margin-top: 30px; }
+ 
+ .form-group{  margin-top: 20px;   height:50px; width: 395px;}
+
+.form-container{ padding-top:5px; margin-top:10px; display: flex; 
+    background-color: rgb(227, 233, 233); border-radius: 5px;border: rgb(206, 203, 203) solid ; width: 600px;height: 700px
+}
+.headings{ font-size: large; text-align: center;margin-left: 250px; margin-top: 10px;}
+.head{ margin-left: 250px; text-shadow: 20px;margin-top: -10px; font-size: x-large; margin-bottom: 30px;}
+.form-control{  margin-left: 100px; width: 700px;}
+.input-group{ margin-left: 100px; width:fit-content;}
+.form-group{ margin-left: 5px;}
+.btn { margin-left:300;}
+.container-fluid{ display: flex;justify-content: center;}
+.container-fluid1{ background-color: rgb(192, 240, 243);}
+.h3{ text-align: center;}
+.card-deck{ background-color: rgb(192, 240, 243);}
+.card-body{ background-color: rgb(192, 240, 243); }
+.container{ background-color: rgb(235, 15, 52);}
+.foot{ text-align: center; background-image: url('file:///C:/webdesigning/css/footer.png'); background-color: rgb(196, 191, 191);height:50px; background-size: contain;background-repeat: no-repeat;background-position-x: center;}
